@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/guimashima2/cursoTypeScript#readme",
   "devDependencies": {
+    "@types/lodash": "^4.14.171",
     "@types/node": "^15.14.1",
     "@types/validator": "^13.6.3",
     "@typescript-eslint/eslint-plugin": "^4.28.1",
@@ -35,6 +36,7 @@
     "webpack-cli": "^4.7.2"
   },
   "dependencies": {
+    "lodash": "^4.17.21",
     "validator": "^13.6.0"
   }
 }
